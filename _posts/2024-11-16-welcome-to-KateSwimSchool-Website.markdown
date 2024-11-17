@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "KateSwimSchool website launch!"
 date:   2024-11-16 20:05:17 -0800
 categories: jekyll update
 ---
